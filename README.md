@@ -3,6 +3,8 @@
 
 > <p> Ao seu dispor </p>
 
+
+
 ## ⚙️ Tecnologias
 [//]: # (Variáveis para os links das imagens)
 [html-badge]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
@@ -23,9 +25,12 @@
 | ![JavaScript][js-badge] | ![TypeScript][ts-badge] | ![Figma][figma-badge] |
 | ![React][react-badge] |  ![Kotlin][kotlin-badge] |  
 
-> <p> Você é do tamanho seu sonho </p>
+
 
 ## 📱 Minhas rede sociais 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/arlen-agra-571275209)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](www.linkedin.com/in/arlen-agra-571275209)
+
+
+> <p> Não espere o futuro mudar tua vida, porque o futuro será a consequência do presente. </p>
