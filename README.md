@@ -21,7 +21,7 @@
 |:---:|:---:|:---:|
 | ![HTML][html-badge] | ![CSS][css-badge] | ![Adobe Photoshop][ps-badge] |
 | ![JavaScript][js-badge] | ![TypeScript][ts-badge] | ![Figma][figma-badge] |
-| ![React][react-badge] |  ![Kotlin][kotlin-badge] |  ![GitHub][github-badge]
+| ![React][react-badge] |  ![Kotlin][kotlin-badge] |  
 
 > <p> Você é do tamanho seu sonho </p>
 
