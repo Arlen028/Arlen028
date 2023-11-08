@@ -28,9 +28,8 @@
 
 
 ## 📱 Minhas rede sociais 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/arlen-agra-571275209)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](www.linkedin.com/in/arlen-agra-571275209)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/arlen-agra-571275209/)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">]()
 
 
 > <p> Não espere o futuro mudar tua vida, porque o futuro será a consequência do presente. </p>
