@@ -18,12 +18,13 @@
 [ps-badge]:https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black
 [figma-badge]:https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
 [github-badge]: https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white
+[angular-badge]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 
 |  |  |  |
 |:---:|:---:|:---:|
 | ![HTML][html-badge] | ![CSS][css-badge] | ![Adobe Photoshop][ps-badge] |
 | ![JavaScript][js-badge] | ![TypeScript][ts-badge] | ![Figma][figma-badge] |
-| ![React][react-badge] |  ![Kotlin][kotlin-badge] |  
+| ![React][react-badge] |  ![Angular][angular-badge] | ![Github][github-badge] ![Git][git-badge]  |
 
 
 
