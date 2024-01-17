@@ -29,7 +29,7 @@
 
 ## 📱 Minhas rede sociais 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/arlen-agra-571275209/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:arlens527@gmail.com)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">]()
-
 
 > <p> Não espere o futuro mudar tua vida, porque o futuro será a consequência do presente. </p>
