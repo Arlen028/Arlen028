@@ -14,13 +14,14 @@
 [react-badge]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
 [git-badge]: https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
 [github-badge]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-[sc-badge]: https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white
+[tailwind-badge]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
 [figma-badge]:https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
 [java-badge]:https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
+[ex-badge]: https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
 
 |  |  |  |
 |:---:|:---:|:---:|
-| ![HTML][html-badge] | ![CSS][css-badge] | ![Styled-Components][sc-badge] | 
+| ![HTML][html-badge] | ![CSS][css-badge] | ![TailwindCSS][tailwind-badge] | ![Express][ex-badge] |
 | ![JavaScript][js-badge] | ![TypeScript][ts-badge] | ![Figma][figma-badge] |
 | ![React][react-badge] |  ![Java][java-badge] | ![Github][github-badge] ![Git][git-badge]  |
 
